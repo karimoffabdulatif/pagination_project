@@ -3,8 +3,8 @@ import HomeIcon from "@mui/icons-material/Home";
 import BookOnlineIcon from "@mui/icons-material/BookOnline";
 const routes = [
   {
-    path: "/",
-    content: "Home",
+    path: "/client",
+    content: "Clinets",
     icon: <HomeIcon />,
   },
   {
